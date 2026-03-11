@@ -36,13 +36,7 @@ This application is built around three distinct user panels, each providing tail
 
 ### Project Installation steps
 To set up and run the EduCamp Android app locally, follow these steps:
-
-1.  **Prerequisites:** Ensure you have **Android Studio** installed on your system.
-2.  **Clone the Repository:** Open your terminal or command prompt and clone the project:
-    ```bash
-    git clone [https:[//github.com/dipjoysarker2021/EduCamp-android-app.git](https://github.com/marufacse/EduCamp.git)]([https://github.com/dipjoysarker2021/EduCamp-android-app.gi](https://github.com/marufacse/EduCamp.git)t)
-    ```
-3.  **Open in Android Studio:**
+  **Open in Android Studio:**
     * Start Android Studio.
     * Select **File** > **Open** and navigate to the cloned `EduCamp-android-app / EduCamp - project files` directory.
     * Android Studio will automatically download the necessary Gradle dependencies. Wait for the project sync to complete.
