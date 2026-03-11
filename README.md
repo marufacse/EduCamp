@@ -33,14 +33,6 @@ This application is built around three distinct user panels, each providing tail
 * **System Control:** Manage core application settings, content, and categories (e.g., list of subjects, camp types).
 * **Reporting:** Access system-wide statistics and activity logs.
 
-***
-
-## Get the App
-The latest compiled APK file for the EduCamp application can be downloaded directly from the repository.
-
-[![Download APK](https://img.shields.io/badge/Download_APK-EduCamp_Latest-blue?style=for-the-badge&logo=android)](https:https://github.com/marufacse/EduCamp.git/raw/main/android%20app/educamp%20all%20features.apk)
-
-***
 
 ### Project Installation steps
 To set up and run the EduCamp Android app locally, follow these steps:
