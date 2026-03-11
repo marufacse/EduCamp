@@ -35,7 +35,7 @@ This application is built around three distinct user panels, each providing tail
 
 ***
 
-## 🚀 Get the App
+## Get the App
 The latest compiled APK file for the EduCamp application can be downloaded directly from the repository.
 
 [![Download APK](https://img.shields.io/badge/Download_APK-EduCamp_Latest-blue?style=for-the-badge&logo=android)](https://github.com/dipjoysarker2021/EduCamp-android-app/raw/main/android%20app/educamp%20all%20features.apk)
@@ -78,6 +78,8 @@ A collection of screenshots showcasing of the EduCamp application.
 
 ### App InterFace
 ![App Interface](apps%20interface.jpg)
+
+
 
 
 
